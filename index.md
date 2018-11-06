@@ -17,5 +17,3 @@ Explains the trajectory of development of the system: what was accomplished duri
 #Contact Us. 
 
 Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
-
-Testing if I cant edit.
