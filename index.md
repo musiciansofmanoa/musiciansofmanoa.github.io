@@ -26,15 +26,15 @@ For Milestone 1 the initial mock up images were changed and implemented into the
 
 Current Screenshots of App:
 
-<img src="../images/Landing_image1.png"> 
+<img src="../images/Landing_image1.jpg"> 
 
-<img src="../images/Landing_image2.png"> 
+<img src="../images/Landing_image2.jpg"> 
 
-<img src="../images/signin_image.png"> 
+<img src="../images/signin_image.jpg"> 
 
-<img src="../images/Profile_image.png"> 
+<img src="../images/Profile_image.jpg"> 
 
-<img src="../images/Browse_image.png"> 
+<img src="../images/Browse_image.jpg"> 
 
 ### Milestone 2
 
