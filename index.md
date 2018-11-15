@@ -1,14 +1,23 @@
-# About.
+# Inspiration
 
-Musicianc of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events to find other musicians to perform with.  Users can also filter through profiles to find fellow musicians based on instruments, music tastes, skills, and goals.  
+One day, Dr. Altenberg appeared in the ICSpace with a thought.  Thinking out loud, he said: "Wouldn't it be great if we could start an ICSpace band playing all sorts of music in here?"  He loved his classical music and knew how to play a myriad of instruments, but he didn't know anyone he could start a band with. And that's how our idea of Musicians of Manoa, started.
+
+# About
+
+Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events to find other musicians to perform with.  Users can also filter through profiles to find fellow musicians based on instruments, musical tastes, skills, and goals, as well as give Musicians a rating.
  
- [Github Musicians of Manao](https://github.com/musiciansofmanoa)
+ [Github Musicians of Manoa](https://github.com/musiciansofmanoa)
  
- Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
 
 # Installation. 
 
 Explains how to download, install, and (if necessary) deploy the system.
+
+To install our app, you'll need to have meteor installed. Fork the project into your repository and clone the project onto your computer. Change your directory to our app directory, and run the following commands in the terminal: 
+
+npm install
+meteor npm start
 
 # Application design. 
 
