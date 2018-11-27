@@ -17,13 +17,22 @@ meteor npm start
 # User Guide
 
 <img src="../images/Landing_image_1.jpg"> 
-Here is the home page. On the upper right hand corner, there is a dropdown named Login. Click on it and choose to sign in or sign up.
+Here is the home page. On the upper right hand corner, there is a dropdown named login. Click on it and choose to sign in or sign up.
 
 <img src="../images/signin_image.jpg">
 Here is the sign in page.
 
 <img src="../images/signup_image.PNG">
 Here is the sign up page.
+
+<img src="../images/Landing_image_2.jpg">
+This is the page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click.
+
+<img src="../images/Profile_image.jpg"> 
+Here is the Profile page.
+
+<img src="../images/Browse_image.jpg"> 
+Here is the page where you can browse other people.
 
 # Application design
 
