@@ -34,6 +34,8 @@ Here is the Profile page.
 <img src="../images/Browse_image.jpg"> 
 Here is the page where you can browse other people.
 
+# Galaxy Deployment
+
 # Application design
 
 (Explains how the system was designed. See the BowFolios system for details.)
