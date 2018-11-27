@@ -6,7 +6,7 @@ One day, Dr. Altenberg appeared in the ICSpace with a thought.  Thinking out lou
 
 Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events to find other musicians to perform with.  Users can also filter through profiles to find fellow musicians based on instruments, musical tastes, skills, and goals, as well as give Musicians a rating.
  
- [Musicians of Manoa Github](https://github.com/musiciansofmanoa)
+ [Github Musicians of Manoa](https://github.com/musiciansofmanoa)
 
 # Installation
 To install our app, you'll need to have meteor installed. Fork the project into your repository and clone the project onto your computer. Change your directory to our app directory, and run the following commands in the terminal: 
@@ -16,7 +16,10 @@ meteor npm start
 
 # User Guide
 
-(Explains what can be done in the application.)
+<img src="../images/Landing_image_1.jpg"> 
+Here is the home page. On the upper right hand corner, there is a dropdown named Login. Click on it and choose to sign in or sign up.
+
+<img src="../images/signin_image.jpg">
 
 # Application design
 
