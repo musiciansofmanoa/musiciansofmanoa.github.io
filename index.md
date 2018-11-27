@@ -6,9 +6,7 @@ One day, Dr. Altenberg appeared in the ICSpace with a thought.  Thinking out lou
 
 Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events to find other musicians to perform with.  Users can also filter through profiles to find fellow musicians based on instruments, musical tastes, skills, and goals, as well as give Musicians a rating.
  
- [Github Musicians of Manoa](https://github.com/musiciansofmanoa)
- 
-Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+ [Musicians of Manoa Github](https://github.com/musiciansofmanoa)
 
 # Installation
 
