@@ -9,9 +9,6 @@ Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam
  [Musicians of Manoa Github](https://github.com/musiciansofmanoa)
 
 # Installation
-
-Explains how to download, install, and (if necessary) deploy the system.
-
 To install our app, you'll need to have meteor installed. Fork the project into your repository and clone the project onto your computer. Change your directory to our app directory, and run the following commands in the terminal: 
 
 npm install
