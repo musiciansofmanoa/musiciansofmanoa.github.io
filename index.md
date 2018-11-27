@@ -36,6 +36,8 @@ Here is the page where you can browse other people.
 
 # Galaxy Deployment
 
+[Github Milestone 1](http://musiciansofmanoa.meteorapp.com/#/) 
+
 # Application design
 
 (Explains how the system was designed. See the BowFolios system for details.)
