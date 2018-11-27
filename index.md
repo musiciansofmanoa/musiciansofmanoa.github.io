@@ -36,7 +36,7 @@ Here is the page where you can browse other people.
 
 # Galaxy Deployment
 
-[Github Milestone 1](http://musiciansofmanoa.meteorapp.com/#/) 
+[Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/) 
 
 # Application design
 
