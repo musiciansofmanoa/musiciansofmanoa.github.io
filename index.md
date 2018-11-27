@@ -16,11 +16,11 @@ meteor npm start
 
 # Application design
 
-Explains how the system was designed. See the BowFolios system for details.
+(Explains how the system was designed. See the BowFolios system for details.)
 
 # Development history
 
-Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
+(Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.)
 
 ### Milestone 1: Mock up development
 
@@ -47,4 +47,4 @@ Current Screenshots of App:
 
 # Contact Us 
 
-Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
+(Explains who the developers of the system are and how to get in touch with them if you have comments or questions.)
