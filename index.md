@@ -20,6 +20,10 @@ meteor npm start
 Here is the home page. On the upper right hand corner, there is a dropdown named Login. Click on it and choose to sign in or sign up.
 
 <img src="../images/signin_image.jpg">
+Here is the sign in page.
+
+<img src="../images/signup_image.PNG">
+Here is the sign up page.
 
 # Application design
 
