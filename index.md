@@ -64,6 +64,9 @@ Current Screenshots of App:
 
 [Github Milestone 2](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/3)
 
+### Milestone 3
+
+[Github Milestone 3](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/4)
 
 # Contact Us 
 
