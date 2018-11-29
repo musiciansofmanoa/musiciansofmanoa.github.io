@@ -19,7 +19,7 @@ npm install
 
 meteor npm start
 
-The app should be running on 
+The app should be running on http://localhost:3000/
 
 Now that the system is running you can edit the project and make changes as needed.  
 
@@ -80,9 +80,9 @@ For Milestone 3, current issues being worked on are the User Profile page as wel
 Our Github repositories for Musicians of Manoa can be found [here](https://github.com/musiciansofmanoa)
 
 Our Team is made up of 6 members:
-Leighton Villanuvea
-Aljay Fagaragan
-Mia Clause
-Calvan Liang
-Ty Uehara
+Leighton Villanuvea, 
+Aljay Fagaragan, 
+Mia Clause, 
+Calvan Liang, 
+Ty Uehara, 
 David Badke 
