@@ -74,7 +74,7 @@ For Milestone 2 we implemented more functionality into the different pages.  The
 
 ### Milestone 3
 
-For Milestone 3, current issues being worked on are the User Profile page as well as the Jam Sessions page.  The Graphic design of the app will be updated as well. 
+For Milestone 3, current issues being worked on are the User Profile page as well as the Jam Sessions page.  The Graphic design of the app will be updated as well. Several issues that popped up in Milestone 2 will be fixed. 
 
 [Github Milestone 3](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/4)
 
