@@ -41,7 +41,7 @@ Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.co
 
 # Application design
 
-(Explains how the system was designed. See the BowFolios system for details.)
+We designed the application to be straighforward. You can sign up and log in to your own profile. You can edit your profile to include your musical capabilities. There is a browsing page where you can see everyone that has signed up. There is a page for "jam sessions." Jam sessions are posted events where people are free to attend to jam out with other musicians. Overall, this app intends to give users a way to find other musicians and meet up with them.
 
 # Development history
 
