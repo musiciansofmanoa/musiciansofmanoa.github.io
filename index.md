@@ -4,12 +4,14 @@ One day, Dr. Altenberg appeared in the ICSpace with a thought.  Thinking out lou
 
 # About
 
-Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events to find other musicians to perform with.  Users can also filter through profiles to find fellow musicians based on instruments, musical tastes, skills, and goals, as well as give Musicians a rating.
+Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam sessions.  Users can post events and find other musicians to perform with.  Users can also filter through profiles based on instruments, musical tastes, skills, and goals, as well as give Musicians a rating.
  
  [Github Musicians of Manoa](https://github.com/musiciansofmanoa)
 
 # Installation
-To install our app, you'll need to have meteor installed. Fork the project into your repository and clone the project onto your computer. Change your directory to our app directory, and run the following commands in the terminal: 
+To install our app, you'll need to have meteor installed. 
+Fork the project into your repository and clone the project onto your computer. 
+Change your directory to our app directory, and run the following commands in the terminal: 
 
 npm install
 meteor npm start
@@ -26,7 +28,7 @@ Here is the sign in page.
 Here is the sign up page.
 
 <img src="../images/Landing_image_2.jpg">
-This is the page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click.
+This is the page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the different pages.
 
 <img src="../images/Profile_image.jpg"> 
 Here is the Profile page.
@@ -35,8 +37,7 @@ Here is the Profile page.
 Here is the page where you can browse other people.
 
 # Galaxy Deployment
-
-[Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/) 
+Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/) 
 
 # Application design
 
@@ -66,6 +67,8 @@ Current Screenshots of App:
 
 ### Milestone 2
 
+For Milestone 2 we implemented more functionality into the different pages.  There is an admin page that allows the admin to view any profile in the system as well as delete any user for misconduct.  
+
 [Github Milestone 2](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/3)
 
 ### Milestone 3
@@ -74,4 +77,12 @@ Current Screenshots of App:
 
 # Contact Us 
 
-(Explains who the developers of the system are and how to get in touch with them if you have comments or questions.)
+Our Github repositories for Musicians of Manoa can be found [here](https://github.com/musiciansofmanoa)
+
+Our Team is made up of 6 members:
+Leighton Villanuvea
+Aljay Fagaragan
+Mia Clause
+Calvan Liang
+Ty Uehara
+David Badke 
