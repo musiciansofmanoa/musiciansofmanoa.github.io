@@ -53,18 +53,6 @@ For Milestone 1 the initial mock up images were changed and implemented into the
 
 [Github Milestone 1](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/2) 
 
-Current Screenshots of App:
-
-<img src="../images/Landing_image_1.jpg"> 
-
-<img src="../images/Landing_image_2.jpg"> 
-
-<img src="../images/signin_image.jpg"> 
-
-<img src="../images/Profile_image.jpg"> 
-
-<img src="../images/Browse_image.jpg"> 
-
 ### Milestone 2
 
 For Milestone 2 we implemented more functionality into the different pages.  There is an admin page that allows the admin to view any profile in the system as well as delete any user for misconduct.  
