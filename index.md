@@ -45,7 +45,7 @@ This is the Browsing page where you can filter through other musicians in the ar
  
 # Galaxy Deployment
 
-Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/) 
+Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/)
 
 # Application design
 
