@@ -37,6 +37,7 @@ Here is the Profile page.
 Here is the page where you can browse other people.
 
 # Galaxy Deployment
+
 Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/) 
 
 # Application design
