@@ -45,7 +45,9 @@ We designed the application to be straighforward. You can sign up and log in to 
 
 # Development history
 
-(Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.)
+Milestone 1 (11/15/18): Mockup and basic functionality implemented.
+
+Milestone 2 (11/29/18): Increased functionality of multiple pages. Added exclusive admin page.
 
 ### Milestone 1: Mock up development
 
