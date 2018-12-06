@@ -29,25 +29,25 @@ Now that the system is running you can edit the project and make changes as need
 
 # User Guide
 
-<img src="../images/Landing_image_1.jpg"> 
+<img src="../images/m3landing.png"> 
 Here is the home page. On the upper right hand corner, there is a dropdown named login. Click on it and choose to sign in or sign up.
 
-<img src="../images/signin_image.jpg">
-This is the sign in page. You can enter your current account information to login in.
-
-<img src="../images/signup_image.PNG">
+<img src="../images/m3signup.png">
 Here is the sign up page where you can create a new account. 
 
-<img src="../images/Landing_image_2.jpg">
+<img src="../images/m3signin.png">
+This is the sign in page. You can enter your current account information to login in.
+
+<img src="../images/m3home.png">
 Here is the landing page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the app including Profiles, Browse, and Jam Sessions.
 
-<img src="../images/Profile_image.jpg">
+<img src="../images/m3profile.png">
 Here is the proile page where you can view your own profile page and update it.
 
-<img src="../images/Browse_image.jpg"> 
+<img src="../images/m3browse.png"> 
 This is the Browsing page where you can filter through other musicians in the area
 
-<img src="../images/admin_page.JPG"> 
+<img src="../images/m3admin.png"> 
 This is the Admin page where admin accounts can view the different users on the app.  They also have a delete option in case a user causes issues or is innapropriate.  
 
 # Galaxy Deployment
