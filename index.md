@@ -85,6 +85,16 @@ For Milestone 3, current issues being worked on are the User Profile page as wel
 
 # Community Feedback
 
+Feedback 1: Interesting website. The focus on musicians is unique. Maybe you can put bands together with this.
+
+Feedback 2: Practicing or playing an instrument alone could get extremely boring. So, I like the idea of bringing musicians together                 where they can play together. They can practice at the same time and have fun. 
+
+Feedback 3: Pretty straightforward. I like that.
+
+Feedback 4: From what I see, it functions alright. You know, I can probably put food in interests. Then, there can be food sessions.
+
+Feedback 5: Well, it works. I'm not a musician so whether or not if it is useful is beyond me.
+
 # Contact Us 
 
 Our Github repositories for Musicians of Manoa can be found [here](https://github.com/musiciansofmanoa)
