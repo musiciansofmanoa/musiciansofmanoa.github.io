@@ -112,4 +112,4 @@ Aljay Fagaragan,
 Mia Clause, 
 Calvan Liang, 
 Ty Uehara, 
-David Badke 
+David Badke.
