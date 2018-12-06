@@ -1,6 +1,6 @@
 # Inspiration
 
-One day, Dr. Altenberg appeared in the ICSpace with a thought.  Thinking out loud, he said: "Wouldn't it be great if we could start an ICSpace band playing all sorts of music in here?"  He loved his classical music and knew how to play a myriad of instruments, but he didn't know anyone he could start a band with. And that's how our idea of Musicians of Manoa, started.
+One day, Dr. Altenberg appeared in the ICSpace with a thought. Thinking out loud, he said: "Wouldn't it be great if we could start an ICSpace band playing all sorts of music in here?" He loved his classical music and knew how to play a myriad of instruments, but he didn't know anyone he could start a band with. That's how our idea of Musicians of Manoa came to be.
 
 # About
 
@@ -65,6 +65,8 @@ Milestone 1 (11/15/18): Mockup and basic functionality implemented.
 
 Milestone 2 (11/29/18): Increased functionality of multiple pages. Added exclusive admin page.
 
+Milestone 3 (12/6/18): Increased functionality of multiple pages. Added jam sessions and events page. 
+
 ### Milestone 1: Mock up development
 
 For Milestone 1 the initial mock up images were changed and implemented into the app with limited functionality. 
@@ -73,13 +75,13 @@ For Milestone 1 the initial mock up images were changed and implemented into the
 
 ### Milestone 2
 
-For Milestone 2 we implemented more functionality into the different pages.  There is an admin page that allows the admin to view any profile in the system as well as delete any user for misconduct.  Adjustments to the navbar and footer were made to work smoother.  A temporary database was also created for the app.  Progress was made on building the Jam Sessions page and User Profile page.  
+For Milestone 2 we implemented more functionality into the different pages. There is an admin page that allows the admin to view any profile in the system as well as delete any user for misconduct. Adjustments to the navbar and footer were made to work smoother. A temporary database was also created for the app. Progress was made on building the Jam Sessions page and User Profile page.  
 
 [Github Milestone 2](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/3)
 
 ### Milestone 3
 
-For Milestone 3, current issues being worked on are the User Profile page as well as the Jam Sessions page.  The Graphic design of the app will be updated as well. Several issues that popped up in Milestone 2 will be fixed. 
+For Milestone 3, current issues being worked on are the User Profile page as well as the Jam Sessions page. Some graphic design of the app will be updated as well. Several issues that popped up in Milestone 2 will be fixed. Add events page.
 
 [Github Milestone 3](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/4)
 
