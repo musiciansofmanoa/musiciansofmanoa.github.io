@@ -35,7 +35,7 @@ This is the sign in page. You can enter your current account information to logi
 Here is the sign up page where you can create a new account. 
 
 <img src="../images/Landing_image_2.jpg">
-Here is the landing page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the app including Profiles, Browse, and Jame Sessions.
+Here is the landing page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the app including Profiles, Browse, and Jam Sessions.
 
 <img src="../images/Profile_image.jpg">
 Here is the proile page where you can view your own profile page and update it.
