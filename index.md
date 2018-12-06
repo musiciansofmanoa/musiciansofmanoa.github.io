@@ -43,7 +43,7 @@ Here is the proile page where you can view your own profile page and update it.
 <img src="../images/Browse_image.jpg"> 
 This is the Browsing page where you can filter through other musicians in the area
 
-<img src="../images/admin_page.jpg"> 
+<img src="../images/admin_page.JPG"> 
 This is the Admin page where admin accounts can view the different users on the app.  They also have a delete option in case a user causes issues or is innapropriate.  
 
 # Galaxy Deployment
