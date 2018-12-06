@@ -39,7 +39,7 @@ Here is the sign up page where you can create a new account.
 This is the sign in page. You can enter your current account information to login in.
 
 <img src="../images/m3home.png">
-Here is the landing page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the app including Profiles, Browse, and Jam Sessions.
+Here is the landing page you see after when you log in or sign up. On the top navigation bar, there are several options for you to click to navigate the app including Profiles, Browse, Jam Sessions, etc.
 
 <img src="../images/m3profile.png">
 Here is the proile page where you can view your own profile page and update it.
@@ -47,8 +47,12 @@ Here is the proile page where you can view your own profile page and update it.
 <img src="../images/m3browse.png"> 
 This is the Browsing page where you can filter through other musicians in the area
 
+<img src="../images/m3jam.png"> 
+
 <img src="../images/m3admin.png"> 
-This is the Admin page where admin accounts can view the different users on the app.  They also have a delete option in case a user causes issues or is innapropriate.  
+This is the Admin page where admin accounts can view the different users on the app and create profiles. They also have a delete option in case a user causes issues or is innapropriate.
+
+<img src="../images/m3events.png"> 
 
 # Galaxy Deployment
 
