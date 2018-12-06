@@ -48,12 +48,13 @@ Here is the proile page where you can view your own profile page and update it.
 This is the Browsing page where you can filter through other musicians in the area
 
 <img src="../images/m3jam.PNG"> 
+Here is the Jam Sessions page. This is where you can view Jam Sessions. 
 
 <img src="../images/m3admin.PNG"> 
 This is the Admin page where admin accounts can view the different users on the app and create profiles. They also have a delete option in case a user causes issues or is innapropriate.
 
 <img src="../images/m3events.PNG"> 
-
+Here is the Events page. This is where you can view Events.
 # Galaxy Deployment
 
 Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/)
