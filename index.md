@@ -8,6 +8,10 @@ Musicians of Manoa allows local musicians in the Manoa area to meet and hold jam
  
  [Github Musicians of Manoa](https://github.com/musiciansofmanoa)
 
+# Application design
+
+We designed the application to be straight forward and easy to use. You can sign up or log in to your own profile. You can edit your profile to include your musical capabilities, goals, and contact information. There is a browsing page where you can see other musicians, as well as a filter that allows you to view profiles by music genre, instruments, etc. The Jam Sessions page shows posted events where people are free to attend to jam out with other musicians. Overall, the app's design was kept simple and clean to make the process of meeting fellow musicians in the Manoa area easier.  
+
 # Developer Guide
 To install our app, you'll need to have meteor installed. 
 
@@ -50,10 +54,6 @@ This is the Admin page where admin accounts can view the different users on the 
 
 Here is the link to our [Galaxy Deployment](http://musiciansofmanoa.meteorapp.com/#/)
 
-# Application design
-
-We designed the application to be straight forward and easy to use. You can sign up or log in to your own profile. You can edit your profile to include your musical capabilities, goals, and contact information. There is a browsing page where you can see other musicians, as well as a filter that allows you to view profiles by music genre, instruments, etc. The Jam Sessions page shows posted events where people are free to attend to jam out with other musicians. Overall, the app's design was kept simple and clean to make the process of meeting fellow musicians in the Manoa area easier.  
-
 # Development history
 
 Milestone 1 (11/15/18): Mockup and basic functionality implemented.
@@ -77,6 +77,8 @@ For Milestone 2 we implemented more functionality into the different pages.  The
 For Milestone 3, current issues being worked on are the User Profile page as well as the Jam Sessions page.  The Graphic design of the app will be updated as well. Several issues that popped up in Milestone 2 will be fixed. 
 
 [Github Milestone 3](https://github.com/musiciansofmanoa/musiciansofmanoa/projects/4)
+
+# Community Feedback
 
 # Contact Us 
 
